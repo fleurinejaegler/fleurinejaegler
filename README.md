@@ -10,7 +10,7 @@ I'm completing a Master of Analytics at UC Berkeley (IEOR). Last year, I graduat
 
 ## Portfolio
 
-- [Fleurine Jaegler - Portfolio](https://[À COMPLÉTER : URL du portfolio])
+- [Fleurine Jaegler - Portfolio]
 
 ## Connect with Me
 
@@ -23,7 +23,7 @@ I'm completing a Master of Analytics at UC Berkeley (IEOR). Last year, I graduat
 
 ## Academic Projects
 
-- [**HeadlineIQ**, UC Berkeley IEOR 242A (2026)]: fine-tuned DistilBERT on 32,487 randomized A/B tests
+- **HeadlineIQ**, UC Berkeley IEOR 242A (2026): fine-tuned DistilBERT on 32,487 randomized A/B tests
 - [**Chicago Traffic Crash Dashboard** (2026)](https://github.com/fleurinejaegler/chicago-crash-dashboard), UC Berkeley team project (2026): crash severity model with a dashboard
 
 ## Personal Projects
