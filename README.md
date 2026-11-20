@@ -31,7 +31,8 @@ I'm completing a Master of Analytics at UC Berkeley (IEOR). Last year, I graduat
 
 ## Hackathons
 
-- [**DrozyAI** (ASUS Local AI Hackathon, 2026)](https://github.com/fleurinejaegler/DrozyAI), ASUS Local AI Hackathon (2026): on-device driver-safety system, 513 ms time-to-alert
-- [**Homie**, Google DeepMind AI hackathon (2026)](https://github.com/fleurinejaegler/Homie): AI operations platform for property management, built on Google Cloud Run and the Gemini API
+- [**DrozyAI** (ASUS Local AI Hackathon, 2026)](https://github.com/fleurinejaegler/DrozyAI), ASUS Local AI Hackathon (October 2026): on-device driver-safety system, 513 ms time-to-alert
+- [**Homie**, Google DeepMind AI Hackathon (2026)](https://github.com/fleurinejaegler/Homie): AI operations platform for property management, built on Google Cloud Run and the Gemini API
 - [**Cal'm**, Google Hackathon (2026)](https://github.com/fleurinejaegler/Cal-m): safety-aware walking app comparing the fastest and safest routes for students
-- [**Know Your Building**, Mistral AI × Elastic hackathon (2026)](https://github.com/fleurinejaegler/Hackathon_MistralAI) : tenant tool over San Francisco open data
+- [**Know Your Building**, Mistral AI × Elastic Hackathon (2026)](https://github.com/fleurinejaegler/Hackathon_MistralAI) : tenant tool over San Francisco open data
+- - [**Campus Copilot** (SpaceX AI Hackathon, 2026)](https://github.com/fleurinejaegler/Campus-Copilot), Space X AI Hackathon (November 2026): on-device driver-safety system, 513 ms time-to-alert
