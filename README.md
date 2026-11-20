@@ -35,4 +35,4 @@ I'm completing a Master of Analytics at UC Berkeley (IEOR). Last year, I graduat
 - [**Homie**, Google DeepMind AI Hackathon, September 2026](https://github.com/fleurinejaegler/Homie): AI operations platform for property management, built on Google Cloud Run and the Gemini API
 - [**Cal'm**, Google Hackathon, October 2026](https://github.com/fleurinejaegler/Cal-m): safety-aware walking app comparing the fastest and safest routes for students
 - [**Know Your Building**, Mistral AI × Elastic Hackathon, November 2026](https://github.com/fleurinejaegler/Hackathon_MistralAI) : tenant tool over San Francisco open data
-- [**Campus Copilot**, SpaceX AI Hackathon, November 2026)](https://github.com/fleurinejaegler/Campus-Copilot): application automating daily tasks for students (to-do lists, study sessions, calendar, job recruiting) using plural Grok bots 
+- [**Campus Copilot**, SpaceX AI Hackathon, November 2026](https://github.com/fleurinejaegler/Campus-Copilot): application automating daily tasks for students (to-do lists, study sessions, calendar, job recruiting) using plural Grok bots 
