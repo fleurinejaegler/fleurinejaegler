@@ -18,7 +18,7 @@ I'm completing a Master of Analytics at UC Berkeley (IEOR). Last year, I graduat
 
 ## Research Projects
 - [**PD-Screening: Parkinson's Disease Screening** (2026)](https://github.com/fleurinejaegler/pd-screening-project): best model at 83.3% held-out accuracy, deployed as a Streamlit app
-- [**Delta-Stepping with CEA** (2026)](https://github.com/fleurinejaegler/delta-stepping): optimal path search under environmental constraints
+- [**Delta-Stepping with CEA** (2026)](https://github.com/fleurinejaegler/delta_stepping): optimal path search under environmental constraints
 - **High-dimensional biomarker classification**, Institut Pasteur (2025): out-of-sample AUC 0.88
 
 ## Academic Projects
