@@ -17,8 +17,8 @@ I'm completing a Master of Analytics at UC Berkeley (IEOR). Last year, I graduat
 - [LinkedIn](https://linkedin.com/in/fleurine-jaegler)
 
 ## Research Projects
+- [**Optimal Rounting Under Blast Exposure Constraints** (2026)](https://github.com/fleurinejaegler/Optimal-Routing-Under-Blast-Exposure-Constraints): optimal path search under environmental constraints
 - [**PD-Screening: Parkinson's Disease Screening** (2026)](https://github.com/fleurinejaegler/pd-screening-project): best model at 83.3% held-out accuracy, deployed as a Streamlit app
-- [**Delta-Stepping with CEA** (2026)](https://github.com/fleurinejaegler/delta_stepping): optimal path search under environmental constraints
 - **High-dimensional biomarker classification**, Institut Pasteur (2025): out-of-sample AUC 0.88
 
 ## Academic Projects
