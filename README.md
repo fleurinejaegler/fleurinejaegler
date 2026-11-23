@@ -1,8 +1,8 @@
 # Hi, I'm Fleurine Jaegler.
 
-**Looking for a full-time position in machine learning on LLM training and evaluation, starting June 2027.**
+**Looking for a full-time position, starting June 2027.**
 
-I'm completing a Master of Analytics at UC Berkeley (IEOR). Last year, I graduated from CentraleSupélec, Université Paris-Saclay with a Bachelor and Master of Engineering in Applied Mathematics. I build LLM systems and evaluate them with numbers: retrieval pipelines, fine-tuned transformers, and optimization models run on HPC clusters.
+I'm completing a Master of Analytics at UC Berkeley (IEOR). Last year, I graduated from CentraleSupélec, Université Paris-Saclay with a Bachelor and Master of Engineering in Applied Mathematics.
 
 ## Resume
 
@@ -31,8 +31,11 @@ I'm completing a Master of Analytics at UC Berkeley (IEOR). Last year, I graduat
 
 ## Hackathons
 
-- [**DrozyAI**, ASUS Local AI Hackathon, October 2026](https://github.com/fleurinejaegler/DrozyAI) : on-device driver-safety system, 513 ms time-to-alert
-- [**Homie**, Google DeepMind AI Hackathon, September 2026](https://github.com/fleurinejaegler/Homie): AI operations platform for property management, built on Google Cloud Run and the Gemini API
-- [**Cal'm**, Google Hackathon, October 2026](https://github.com/fleurinejaegler/Cal-m): safety-aware walking app comparing the fastest and safest routes for students
+- [**Campus Copilot**, SpaceX AI Hackathon, November 2026](https://github.com/fleurinejaegler/Campus-Copilot): application automating daily tasks for students (to-do lists, study sessions, calendar, job recruiting) using plural Grok bots
 - [**Know Your Building**, Mistral AI × Elastic Hackathon, November 2026](https://github.com/fleurinejaegler/Hackathon_MistralAI) : tenant tool over San Francisco open data
-- [**Campus Copilot**, SpaceX AI Hackathon, November 2026](https://github.com/fleurinejaegler/Campus-Copilot): application automating daily tasks for students (to-do lists, study sessions, calendar, job recruiting) using plural Grok bots 
+- [**DrozyAI**, ASUS Local AI Hackathon, October 2026](https://github.com/fleurinejaegler/DrozyAI) : on-device driver-safety system, 513 ms time-to-alert
+- [**Cal'm**, Google Hackathon, October 2026](https://github.com/fleurinejaegler/Cal-m): safety-aware walking app comparing the fastest and safest routes for students
+- [**Homie**, Google DeepMind AI Hackathon, September 2026](https://github.com/fleurinejaegler/Homie): AI operations platform for property management, built on Google Cloud Run and the Gemini API
+
+
+
